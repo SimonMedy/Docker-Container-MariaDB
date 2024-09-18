@@ -57,7 +57,7 @@ _Note: If the `docker compose` command is not found, try `docker-compose` instea
 - `docker rmi 'IMAGE_NAME'`: Remove an image with the name 'IMAGE_NAME'
 - `docker volume ls`: Check all volumes
 - `docker volume rm 'VOLUME_NAME'`: Remove a volume with the name 'VOLUME_NAME'
-- `docker `: Check active containers
+- `docker volume create 'VOLUME_NAME'`: Create a new volume with the name 'VOLUME_NAME'
 - `docker exec -it 'CONTAINER_NAME' bash`: Execute a bash shell in the container with the name 'CONTAINER_NAME'
 
 ## Useful Links
