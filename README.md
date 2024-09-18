@@ -11,7 +11,7 @@ _Docker Compose should be included when you install Docker on your computer, if 
 
 ## How to use
 
-All you need to do is to run this command:
+All you need to do is to run this command in a terminal where the docker-compose.yaml file is located:
 
 ```bash
 docker compose up -d
