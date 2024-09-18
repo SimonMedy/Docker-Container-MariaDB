@@ -37,7 +37,7 @@ By default, the containers will not stop until you stop it yourself, even after 
 
 You can delete this line in both the mariadb and phpmyadmin configs to avoid this behavior:
 
-```bash
+```yaml
 restart: unless-stopped
 ```
 
